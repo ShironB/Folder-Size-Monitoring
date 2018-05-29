@@ -3,7 +3,7 @@ In case the folder is bigger then the defined size the script deletes the oldest
 
 # Execution method:
 
- ./monitor_folder_size.sh <FOLDER> <MAX_FOLDER_SIZE_BY_GIGABYTES>
+ ./monitor_folder_size.sh <PATH_TO_FOLDER> <MAX_FOLDER_SIZE_BY_GIGABYTES>
 
 
 # Example:
